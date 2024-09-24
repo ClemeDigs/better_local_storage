@@ -1,0 +1,1 @@
+import './local_storage.js';
